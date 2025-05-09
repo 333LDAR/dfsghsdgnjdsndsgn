@@ -1,0 +1,30 @@
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+  }
+ body{
+    background-color: black;
+  }
+  .poster{
+
+ margin-top: 100px;
+ width: 50%;
+ margin-left: 25%;
+ text-align: center;
+
+  }
+  h1{
+    text-transform: uppercase;
+    color: white;
+    font-size: 3rem;
+  }
+  .ofek-image{
+ width: 100%;
+    border: 2px solid white;
+  }
+  
+  #button{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    padding: 20px;
+  }
